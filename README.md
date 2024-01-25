@@ -15,8 +15,6 @@ This script is designed to enhance the security of a Windows system by disabling
 
 .\Hardening2024.ps1
 
-applescript
-Copy
 
 ## Features
 
@@ -32,8 +30,6 @@ If you encounter any issues while running the script, such as the error mentione
 
 Set-MpPreference : Operation failed with the following error: 0x800106ba. Operation: Set-MpPreference. Target: DisableRealtimeMonitoring.
 
-applescript
-Copy
 
 You can try the following steps to resolve the issue:
 

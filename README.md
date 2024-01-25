@@ -26,31 +26,31 @@ This script is designed to enhance the security of a Windows system by disabling
 
 ## Changes The Script Makes To The Machine
 
-Disables Windows Error Reporting.
-Enables Windows Firewall.
-Enables Windows Defender Antivirus and real-time protection.
-Enables automatic Windows updates.
-Disables Remote Desktop.
-Disables the Guest account.
-Enables BitLocker Drive Encryption (if supported).
-Disables PowerShell script execution.
-Disables Autorun for removable media.
-Enables User Account Control (UAC).
-Disables SMBv1.
-Enables Windows Defender Firewall Public Profile Logging.
-Disables Remote Registry Service.
-Disables Windows Remote Management (WinRM).
-Enables Windows Defender SmartScreen.
-Disables AutoPlay/AutoRun for all drives.
-Disables Microsoft Office Macros.
-Disables Remote Assistance.
-Disables Windows Script Host.
-Disables Windows PowerShell Remoting.
-Disables Windows Management Instrumentation (WMI) Remoting.
-Enables Windows Defender Exploit Protection.
-Configures Windows Defender Firewall rules to block inbound Telnet, FTP, and RDP connections.
-Enables Secure Boot.
-Enables Windows Defender Controlled Folder Access.
+-Disables Windows Error Reporting.
+-Enables Windows Firewall.
+-Enables Windows Defender Antivirus and real-time protection.
+-Enables automatic Windows updates.
+-Disables Remote Desktop.
+-Disables the Guest account.
+-Enables BitLocker Drive Encryption (if supported).
+-Disables PowerShell script execution.
+-Disables Autorun for removable media.
+-Enables User Account Control (UAC).
+-Disables SMBv1.
+-Enables Windows Defender Firewall Public Profile Logging.
+-Disables Remote Registry Service.
+-Disables Windows Remote Management (WinRM).
+-Enables Windows Defender SmartScreen.
+-Disables AutoPlay/AutoRun for all drives.
+-Disables Microsoft Office Macros.
+-Disables Remote Assistance.
+-Disables Windows Script Host.
+-Disables Windows PowerShell Remoting.
+-Disables Windows Management Instrumentation (WMI) Remoting.
+-Enables Windows Defender Exploit Protection.
+-Configures Windows Defender Firewall rules to block inbound Telnet, FTP, and RDP connections.
+-Enables Secure Boot.
+-Enables Windows Defender Controlled Folder Access.
 
 ## Troubleshooting
 
